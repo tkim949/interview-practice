@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tk/Documents/Interview_Prac/EDUCATIVE/subset_permutaions/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+

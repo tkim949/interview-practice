@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tk/Documents/Interview_Prac/CodeSignal/2d_3_matrix_sliding/main.cpp
+iostream
+-
+vector
+-
+map
+-
+set
+-
+

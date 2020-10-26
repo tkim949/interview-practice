@@ -1,0 +1,3 @@
+/Users/tk/Documents/Interview_Prac/CodeSignal/2d_3_matrix_sliding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tk/Documents/Interview_Prac/CodeSignal/2d_3_matrix_sliding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tk/Documents/Interview_Prac/CodeSignal/2d_3_matrix_sliding/cmake-build-debug/CMakeFiles/2d_3_matrix_sliding.dir

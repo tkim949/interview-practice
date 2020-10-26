@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tk/Documents/Interview_Prac/two_sum_unique_pairs/main.cpp
+iostream
+-
+unordered_map
+-
+unordered_set
+-
+vector
+-
+set
+-
+map
+-
+

@@ -1,0 +1,3 @@
+/Users/tk/Documents/Interview_Prac/EDUCATIVE/SORT/b_s_i/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tk/Documents/Interview_Prac/EDUCATIVE/SORT/b_s_i/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tk/Documents/Interview_Prac/EDUCATIVE/SORT/b_s_i/cmake-build-debug/CMakeFiles/b_s_i.dir

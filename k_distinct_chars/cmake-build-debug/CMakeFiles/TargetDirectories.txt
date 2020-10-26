@@ -1,0 +1,3 @@
+/Users/tk/Documents/Interview_Prac/k_distinct_chars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tk/Documents/Interview_Prac/k_distinct_chars/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tk/Documents/Interview_Prac/k_distinct_chars/cmake-build-debug/CMakeFiles/k_distinct_chars.dir

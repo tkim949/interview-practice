@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tk/Documents/Interview_Prac/k_distinct_chars/main.cpp
+iostream
+-
+vector
+-
+map
+-
+unordered_map
+-
+unordered_set
+-
+set
+-
+

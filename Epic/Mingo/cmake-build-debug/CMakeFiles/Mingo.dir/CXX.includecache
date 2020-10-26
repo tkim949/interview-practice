@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tk/Documents/Interview_Prac/Epic/Mingo/main.cpp
+iostream
+-
+random
+-
+algorithm
+-
+iterator
+-
+vector
+-
+unordered_map
+-
+set
+-
+
